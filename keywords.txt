@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For GPIOLed
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+GPIOLed	KEYWORD1
+GPIOLed_mode_t	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+on	KEYWORD2
+off	KEYWORD2
+blink	KEYWORD2
+blinking	KEYWORD2
+update	KEYWORD2
+state	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+GPIOLEDMODE_MANUAL	LITERAL1
+GPIOLEDMODE_BLINKING	LITERAL1
